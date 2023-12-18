@@ -52,6 +52,7 @@
 
 #define BENCH_EMBEDDED
 #define USE_CERT_BUFFERS_2048
+#define WOLFSSL_KEY_GEN
 
 /* TLS 1.3                                 */
 #define WOLFSSL_TLS13
